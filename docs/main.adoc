@@ -1,0 +1,3 @@
+= New adoc file
+
+New documentation
